@@ -301,7 +301,7 @@ def removeContents():
 
 tk.title("FineAsh(Clien)")
 tk.configure(background='royalblue')
-tk.iconbitmap(r''+os.getcwd()+"/clien.ico")
+#tk.iconbitmap(r''+os.getcwd()+"/clien.ico")
 
 
 width = 360
